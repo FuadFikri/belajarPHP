@@ -1,4 +1,6 @@
 #**PHP DASAR**
 <br/>
 
--print array multidimensi ke tabel
+- array multidimensi -> print ke tabel
+- null -> null dalam array
+- ternary operator -> operasi if  simple
